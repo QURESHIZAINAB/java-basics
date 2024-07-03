@@ -171,4 +171,4 @@
 //   }
 // };
 
-// console.log(getUserRole("zainab")
+// console.log(getUserRole)("zainab")
